@@ -1,7 +1,6 @@
 # 🦁롤링페이퍼
 
 앱스쿨 수료가 2달정도 남았을 때 '서로가 서로에게 기억되고 추억될만한 앱은 무엇일까?' 생각하던 중 학생 때 주고받던 롤링페이퍼를 앱으로 만들어보면 좋겠다는 취지로 시작된 프로젝트 입니다.
-
 <table>
   <tr>
     <td>
@@ -21,6 +20,19 @@
     </td>
   </tr>
 </table>
+
+## 시연 영상
+
+<p float="left">
+  <img alt="" src="https://user-images.githubusercontent.com/66459715/210173987-de1699ff-939c-434e-8a95-599463827032.gif" width="165">
+  <img alt="" src="https://user-images.githubusercontent.com/66459715/210161392-7bd082b4-6429-43cd-8543-8e7636fdb0ef.png" width="165">
+  <img alt="" src="https://user-images.githubusercontent.com/66459715/210161395-5dcedf47-ab5b-4d1f-ac7d-deada8683dae.png" width="165">
+  <img alt="" src="https://user-images.githubusercontent.com/66459715/210161398-3ecd6c02-344c-482d-b8e2-9aaeecdbdd87.png" width="165">
+  <img alt="" src="https://user-images.githubusercontent.com/66459715/210161400-1f5edcdd-89e9-4f27-b007-e74860820b68.png" width="165">
+  <img alt="" src="https://user-images.githubusercontent.com/66459715/210161402-017d9f01-f056-4ca5-ae29-74ae80c5d0c3.png" width="165">
+</p>
+
+ &nbsp;
 
 ## 🕒제작기간
 
