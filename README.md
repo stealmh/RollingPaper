@@ -1,4 +1,4 @@
-# 🦁롤링페이퍼
+# 🦁 롤링페이퍼
 
 앱스쿨 수료가 2달정도 남았을 때 '서로가 서로에게 기억되고 추억될만한 앱은 무엇일까?' 생각하던 중 학생 때 주고받던 롤링페이퍼를 앱으로 만들어보면 좋겠다는 취지로 시작된 프로젝트 입니다.
 <table>
@@ -21,20 +21,7 @@
   </tr>
 </table>
 
-## 시연 영상
-
-<p float="left">
-  <img alt="" src="https://user-images.githubusercontent.com/66459715/210173987-de1699ff-939c-434e-8a95-599463827032.gif" width="165">
-  <img alt="" src="https://user-images.githubusercontent.com/66459715/210161392-7bd082b4-6429-43cd-8543-8e7636fdb0ef.png" width="165">
-  <img alt="" src="https://user-images.githubusercontent.com/66459715/210161395-5dcedf47-ab5b-4d1f-ac7d-deada8683dae.png" width="165">
-  <img alt="" src="https://user-images.githubusercontent.com/66459715/210161398-3ecd6c02-344c-482d-b8e2-9aaeecdbdd87.png" width="165">
-  <img alt="" src="https://user-images.githubusercontent.com/66459715/210161400-1f5edcdd-89e9-4f27-b007-e74860820b68.png" width="165">
-  <img alt="" src="https://user-images.githubusercontent.com/66459715/210161402-017d9f01-f056-4ca5-ae29-74ae80c5d0c3.png" width="165">
-</p>
-
- &nbsp;
-
-## 🕒제작기간
+## 🕒 제작기간
 
 2022.12.12 ~ 2022.12.16 (5일)
 
@@ -44,7 +31,7 @@
 - Firebase
 - MVVM
 
-## 🧐주요기능
+## 🧐 주요기능
 
 #### 1. 롤링페이퍼의 묘미인 형식이 갖춰지지 않은 자유분방함을 살리고자 하였습니다.
 #### 가운데 줄을 제외한 사이드의 글자들이 짤리지 않을 정도 글자수를 제한하였고 회전을 주어 자유분방함을 표현하였습니다.
@@ -136,11 +123,11 @@ struct MakeTeamToolbar: ToolbarContent {
 }
 ```
 
-## 마치며
+## 🌻 마치며
 
 추후 앱 출시를 할 수 있다면 여러방면으로 넓히고 싶습니다. 실제 초,중,고등학교에서 학교 앱을 만들어 반 별로 접근이 가능한 롤링페이퍼 앱을 만들어 배포해볼 수 있고 군대 마음의 편지함을 작성하는 부대 내 제한적인 앱 등 여러 방면으로 활용 할 수 있을 것 같습니다.
 
-## 🌟참여자
+## 🌟 참여자
 | 📎김태형<br/>[@yahoth](https://github.com/yahoth)<br/> | 📎김민호<br/> [@stealmh](https://github.com/stealmh)<br/> | 📎김영서<br/>[@yngddo](https://github.com/suekim999)<br/> |
 | :----------------------------------------------------------: | :---------------------------------------------: | :-------------------------------------------------: |
 |<img src="https://github.com/yahoth.png?size=200" width=200> | <img src="https://avatars.githubusercontent.com/u/66459715?v=4" width=200>  | <img src="https://github.com/yngddo.png?size=200" width=200> |
