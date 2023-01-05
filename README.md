@@ -128,6 +128,6 @@ struct MakeTeamToolbar: ToolbarContent {
 추후 앱 출시를 할 수 있다면 여러방면으로 넓히고 싶습니다. 실제 초,중,고등학교에서 학교 앱을 만들어 반 별로 접근이 가능한 롤링페이퍼 앱을 만들어 배포해볼 수 있고 군대 마음의 편지함을 작성하는 부대 내 제한적인 앱 등 여러 방면으로 활용 할 수 있을 것 같습니다.
 
 ## 🌟 참여자
-| 📎김태형<br/>[@yahoth](https://github.com/yahoth)<br/> | 📎김민호<br/> [@stealmh](https://github.com/stealmh)<br/> | 📎김영서<br/>[@yngddo](https://github.com/suekim999)<br/> |
+| 📎김태형<br/>[@yahoth](https://github.com/yahoth)<br/> | 📎김민호<br/> [@stealmh](https://github.com/stealmh)<br/> | 📎김영서<br/>[@yngddo](https://github.com/yngddo)<br/> |
 | :----------------------------------------------------------: | :---------------------------------------------: | :-------------------------------------------------: |
 |<img src="https://github.com/yahoth.png?size=200" width=200> | <img src="https://avatars.githubusercontent.com/u/66459715?v=4" width=200>  | <img src="https://github.com/yngddo.png?size=200" width=200> |
