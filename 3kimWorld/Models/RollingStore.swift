@@ -16,9 +16,6 @@ class RollingStore: ObservableObject {
     let database = Firestore.firestore()
     
     
-    
-    
-    
     func fetchMember(team: Team) {
         database
             .collection("rollingpaper")
